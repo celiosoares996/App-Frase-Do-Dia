@@ -18,4 +18,7 @@ para exibir diferentes frases quando o usuário interage com o botão.
 
 **Imagens do aplicativo:**
 
+![Captura_de_tela_2024-06-07_140037-removebg-preview](https://github.com/celiosoares996/App-Frase-Do-Dia/assets/106351374/79fda340-4374-462d-b415-a107cd4806e0) ![Captura_de_tela_2024-06-07_135956-removebg-preview](https://github.com/celiosoares996/App-Frase-Do-Dia/assets/106351374/6dee6445-eba7-4527-a457-f11570fefec9)
+
+
 
